@@ -1,0 +1,1 @@
+(self.webpackJsonp=self.webpackJsonp||[]).push([[13],{1068:function(e){e.exports={printWidth:80,tabWidth:2,singleQuote:!0,trailingComma:"es5",bracketSpacing:!0,jsxBracketSameLine:!0}}}]);
